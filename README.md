@@ -28,16 +28,6 @@ localhost:8000/project
 Contributors names and contact info
 
 ex. Ashtuosh Mahapatra
-ex. [](https://twitter.com/dompizzie)
+ex. https://www.linkedin.com/in/ashutosh-mahapatra-0b2332173/
 
-## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
