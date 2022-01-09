@@ -22,7 +22,7 @@ localhost:8000/project
 
 Contributors names and contact info
 
-ex. Ashtuosh Mahapatra
-ex. https://www.linkedin.com/in/ashutosh-mahapatra-0b2332173/
+Ashutosh Mahapatra
+https://www.linkedin.com/in/ashutosh-mahapatra-0b2332173/
 
 
