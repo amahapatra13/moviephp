@@ -1,23 +1,14 @@
 # movie booking system(mini project)
 
-Simple overview of use/purpose.
-
 ## Description
 
 A very simple web portal to book movie tickets.
 
-## Getting Started
-
-### Dependencies
-
-Xammp server
-
 ### Installing
-
-
+* Install the xammp server.
+* import the project.sql file onto the xammp dashboard.
 ### Executing program
 
-* Install the xammp server.
 * Type the following onto the server
 ```
 localhost:8000/project
